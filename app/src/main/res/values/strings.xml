@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tappy Defender</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <!-- Main screen -->
+    <string name="start_game">Start game</string>
+    <string name="exit_game">Exit</string>
+    <string name="highscore">Highscore</string>
+</resources>
